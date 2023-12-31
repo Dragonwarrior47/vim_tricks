@@ -1,2 +1,6 @@
-# vim_tricks
-## I will be writing all my vim tricks in this repo.
+# Vim Tricks
+A Repo for maintaining all the tricks to do things in vim efficiently.  
+
+
+
+
